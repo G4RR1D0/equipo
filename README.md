@@ -4,6 +4,7 @@ Este repositorio contiene archivos para un proyecto web de ejemplo.
 
 ## Archivos
 
+- `240629@utxicotepec.edu.mx` → Creador del repositorio.
 - `index.html` → Página principal del proyecto.  
 - `yane.html` → Página secundaria / ejemplo adicional.  
 - `paisaje.jpg` → Imagen utilizada en la web.  
